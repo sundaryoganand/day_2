@@ -1,0 +1,14 @@
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Sundar</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>steve</td>
+    <td>25</td>
+  </tr>
+</table>
