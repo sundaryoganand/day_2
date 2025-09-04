@@ -7,7 +7,7 @@
     <h2>Visit My Favorite Website</h2>
     <a href="https://www.google.com">Go to Google</a>
 
-    <h2>My Photo</h2>
+    <h2>My Photos</h2>
     <img src="https://via.placeholder.com/200" alt="Sample Image" />
   </body>
 </html>
